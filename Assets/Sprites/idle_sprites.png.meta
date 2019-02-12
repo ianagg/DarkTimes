@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 87f35dce7136a204da7a0cdedf2beaf2
+timeCreated: 1525332679
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle_bat_0
+    21300002: idle_sprites_1
+    21300004: idle_sprites_2
+    21300006: idle_bat_1
+    21300008: idle_sprites_4
+    21300010: idle_sprites_5
+    21300012: idle_bat_2
+    21300014: idle_bat_3
+    21300016: idle_bat_4
+    21300018: idle_sprites_9
+    21300020: idle_bat_5
+    21300022: idle_sprites_11
+    21300024: idle_sprites_12
+    21300026: idle_vamp_0
+    21300028: idle_vamp_1
+    21300030: idle_vamp_2
+    21300032: idle_human_0
+    21300034: idle_human_1
+    21300036: idle_human_2
+    21300038: idle_sprites_19
+    21300040: idle_sprites_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_bat_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1335
+        width: 328
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1528
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1528
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_bat_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1333
+        width: 328
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1521
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1521
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_bat_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1338
+        width: 328
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_bat_3
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1306
+        width: 328
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_bat_4
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1304
+        width: 328
+        height: 260
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.3982206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1443
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_bat_5
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1308
+        width: 328
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1443
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1333
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_vamp_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 680
+        width: 326
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_vamp_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 679
+        width: 326
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_vamp_2
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 680
+        width: 326
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_human_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 59
+        width: 246
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_human_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 60
+        width: 246
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_human_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 56
+        width: 246
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 56
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 56
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
